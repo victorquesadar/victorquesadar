@@ -11,9 +11,8 @@
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Back-end development, trying to get my first experience as a developer.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 </b></p>
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+        <p>• 📚 I am a Computer Engineering student at the Universidad Nacional de Costa Rica, focused on software development and always seeking new challenges. I enjoy learning new technologies, improving my programming skills, and staying up to date with industry trends. With an analytical mindset and a focus on innovation, I thrive in collaborative environments and enjoy sharing knowledge about technology and software development.</b></p>
+
        
 </div><br>
 
