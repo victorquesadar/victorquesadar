@@ -24,7 +24,7 @@
 ---
 
 <div>
-  <h3>🧰 Languages and tools I'm learning until now:</h3><br>  
+  <h3>🧰 Languages, frameworks, databases and tools</h3><br>  
     <a href="https://"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
     <a href="https://"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a> 
     <a href="https://"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"></a>
@@ -42,8 +42,9 @@ ___
 
 <div>
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://www.linkedin.com/in/víctorquesada/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://www.instagram.com/victoquesadar/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
 ------
