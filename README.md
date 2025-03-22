@@ -7,7 +7,7 @@
 
 
 
-<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
+
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
